@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.3",
+    "nodemon": "^3.1.0"
+  },
+  "name": "primer-servidor---maraval-y-salerno",
+  "version": "1.0.0",
+  "description": "clase de introduccion a Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "ES"
+  ],
+  "author": "Maraval, Salerno",
+  "license": "ISC"
+}
